@@ -3,6 +3,12 @@ Facility
 
 A humble tribute to an old time classic.
 
+| Key  | Action     |
+|------|------------|
+| WASS | movement   |
+| CTLR | shoot      |
+| E    | open door  |
+
 ![Screen 1](https://drive.google.com/uc?id=1eENZS-CCKZCodbY-dDQaM2qoZ2Za5KMy "Screen 1")
 
 ![Screen 2](https://drive.google.com/uc?id=1vssQLtDX-E6z0Om-pqWayyps_BmdERFx "Screen 2")
