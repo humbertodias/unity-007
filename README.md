@@ -1,7 +1,7 @@
 Facility
 ===============
 
-A humble tribute to an old time classic. You can download a compiled version here: https://drive.google.com/uc?id=1pJvLru-JfSI6yy5aokN9gBxi-lhS-5Hk
+A humble tribute to an old time classic.
 
 ![Screen 1](https://drive.google.com/uc?id=1eENZS-CCKZCodbY-dDQaM2qoZ2Za5KMy "Screen 1")
 
