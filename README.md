@@ -1,3 +1,5 @@
+[![Build](https://github.com/humbertodias/unity-007/actions/workflows/build.yml/badge.svg)](https://github.com/humbertodias/unity-007/actions/workflows/build.yml)
+![GitHub all releases](https://img.shields.io/github/downloads/humbertodias/unity-007/total)
 Facility
 ===============
 
